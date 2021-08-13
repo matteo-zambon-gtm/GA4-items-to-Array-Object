@@ -16,7 +16,7 @@ Go to the GTM gallery variable and search "GA4 Items to Array Object"
 ## The configuration: 
 Create a new variable an choose GA4 Items to Array Object
 
-![select GA4 Items to Facebook Object Converter](https://www.tagmanageritalia.it/GTM/guida/uploads/2021/06/select-GA4-Items-to-Facebook-Object-Converter.png)
+![select GA4 Items to Array Object Converter](https://www.tagmanageritalia.it/GTM/guida/uploads/2021/08/GA4-items-to-Array-Object-GTM-Template-variable.png)
 
 You have to choose the type of parameters that you need to converter:
 - item_name
