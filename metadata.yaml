@@ -17,5 +17,5 @@ documentation: "https://github.com/matteo-zambon-gtm/GA4-items-to-Array-Object/b
 
 versions:
   # Latest Version
-  - sha: 27b249f2f84ff11cb6c60abf06ca91d62d1407d7
+  - sha: 62666fe557b67d4c583e7101af51a70e5ad627ba
     changeNotes: Initial release
